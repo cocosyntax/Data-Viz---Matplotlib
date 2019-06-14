@@ -1,4 +1,4 @@
-# Data Visualisations created using Matplotlib, Panadas
+# Data Visualisations created using Matplotlib, Panadas and Python
 
 
 ### There are a variety of visualisations that have been created:
